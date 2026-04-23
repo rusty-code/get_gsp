@@ -19,13 +19,13 @@ Settings -> Password and authentication
 	- Почтовый код (614000 для Перми)
 	- Страна
 	Отправляем на проверку. В течении 1-2 дней придет отказ из-за санкций:
-	![](pics/Pasted image 20260423140742.png)
+	![](./pics/Pasted%image%20260423140742.png)
 	
 	Так и должно быть. Перезаходим в аккаунт. Проверям, закреплена ли информация. Должно выглядеть так:
-	![](pics/Pasted image 20260423143404.png)
+	![](./pics/Pasted%image%20260423143404.png)
 
 Если эти данные не заполнить, то придет отказ:
-![](pics/Pasted image 20260423141038.png)
+![](./pics/Pasted%image%20260423141038.png)
 
 7. Заполеням форму заявления
 	Settings -> Billing and licensing -> Educations Benefits
@@ -41,4 +41,4 @@ Settings -> Password and authentication
 
 После требуется только переодически проверять статус.
 В течении 1-2 дней статус измениться. Если все удачно, то появится сообщение:
-![](pics/Pasted image 20260423142051.png)
+![](./pics/Pasted%image%20260423142051.png)
